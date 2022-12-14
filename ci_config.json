@@ -472,6 +472,7 @@
   },
   "zstd": {
     "build_options": [
+      "zstd:bin_contrib=true",
       "zstd:bin_tests=true"
     ]
   }
