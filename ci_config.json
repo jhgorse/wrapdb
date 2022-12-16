@@ -473,7 +473,6 @@
   "zstd": {
     "build_options": [
       "zstd:cpp_std=c++17",
-      "zstd:bin_contrib=true",
       "zstd:bin_tests=true"
     ]
   }
